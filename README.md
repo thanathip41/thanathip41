@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi 🙀😸 My name is [Thanathip Srisawatpattana](https://github.com/thanathip41) ✨✨
+===========================================
 
-<!--
-**thanathip41/thanathip41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a full-stack developer maybe?
 
-Here are some ideas to get you started:
+* 😻 My boss's name, "KaiThoon." 🥚🍳
+* 🏠  I'm based in Bangkok, Thailand.
+* 📘  I'm learning Frontend (NuxtJS NextJS Tailwind And Material UI).
+* 📖  I'm learning Backend (NodeJS Laravel Golang Rust And Python).
+* ⛏️  I'm learning Tools (Docker k8s).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanathip41&layout=compact)
+
+
