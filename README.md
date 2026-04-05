@@ -18,7 +18,7 @@
 
 ## 🚀 Tspace Ecosystem
 
-> A collection of high-performance, TypeScript-first **npm packages**  
+> A collection of high-performance, TypeScript-first principles **[npm packages](https://www.npmjs.com/~thanathip41)** 
 > designed for building modern, scalable Node.js backend systems
 
 ---
